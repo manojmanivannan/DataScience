@@ -1,0 +1,2 @@
+# Data Exploration of coupon-recommendation data.
+Check the IPython notebook [here](https://nbviewer.jupyter.org/github/manojmanivannan/DataScience/blob/master/coupon-recommendation/1.PCA_Analysis_and_Logistic_Regression.ipynb)
